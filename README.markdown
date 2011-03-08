@@ -17,7 +17,7 @@ Netbeans will activate zikula support on a php project if the project has the fo
                  \- YourModule
                      |- Installer.php
                      \- Version.php
-<pre>
+</pre>
 
 Features
 --------
