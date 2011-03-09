@@ -3,7 +3,12 @@ Zikula Framework support for Netbeans PHP
 
 Installation
 ------------
-Download the .nbm file form the downloads section or checkout the source and build the plugin yourself.
+- via plugin center (auto update center) (recomanded)
+    - to to the plugin center (tools -> plugins), switch to tab settings, click add and use this url: "http://timeit.roland-web.net/zikulaNetbeansPlugin/updates.xml" (without ")
+
+- Download the .nbm file form the downloads section (button above) and install it via plugin center
+
+- checkout the source and build the plugin yourself.
 
 Required structure of a php project
 -----------------------------------
