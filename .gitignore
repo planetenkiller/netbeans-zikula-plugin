@@ -1,4 +1,9 @@
-build/*
-nbproject/private/*
-nbproject/platform.properties
-nbproject/genfiles.properties
+ZikulaNetbeansPHPPlugin/build/*
+ZikulaNetbeansPHPPlugin/nbproject/private/*
+ZikulaNetbeansPHPPlugin/nbproject/platform.properties
+ZikulaNetbeansPHPPlugin/nbproject/genfiles.properties
+
+ZikulaNetbeansPHPPluginSuite/build/*
+ZikulaNetbeansPHPPluginSuite/nbproject/private/*
+ZikulaNetbeansPHPPluginSuite/nbproject/platform.properties
+ZikulaNetbeansPHPPluginSuite/nbproject/genfiles.properties
