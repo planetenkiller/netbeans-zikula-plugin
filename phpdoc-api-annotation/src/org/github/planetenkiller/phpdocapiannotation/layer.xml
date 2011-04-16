@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Editors">
+        <folder name="text">
+            <folder name="x-php5">
+                <file name="org-github-planetenkiller-phpdocapiannotation-ApiWarningHighlitingTaskFactory.instance">
+                    <attr name="instanceOf" stringvalue="org.netbeans.modules.parsing.spi.TaskFactory"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

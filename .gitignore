@@ -7,3 +7,9 @@ ZikulaNetbeansPHPPluginSuite/build/*
 ZikulaNetbeansPHPPluginSuite/nbproject/private/*
 ZikulaNetbeansPHPPluginSuite/nbproject/platform.properties
 ZikulaNetbeansPHPPluginSuite/nbproject/genfiles.properties
+
+phpdoc-api-annotation/build/*
+phpdoc-api-annotation/nbproject/private/*
+phpdoc-api-annotation/nbproject/platform.properties
+phpdoc-api-annotation/nbproject/genfiles.properties
+nbproject/private/*

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.github.planetenkiller.phpdocapiannotation
+OpenIDE-Module-Layer: org/github/planetenkiller/phpdocapiannotation/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/github/planetenkiller/phpdocapiannotation/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
